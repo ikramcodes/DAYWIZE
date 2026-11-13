@@ -1,4 +1,4 @@
-# DAYWISE Core v0.7.4
+# DAYWISE Core v0.7.5
 
 DAYWISE is an ADHD-friendly life execution manager for turning messy goals, obligations, interruptions, and ideas into a realistic plan and one precise next step.
 
@@ -10,7 +10,7 @@ Copy and paste this single prompt into a new AI chat:
 Open https://raw.githubusercontent.com/ikramcodes/DAYWIZE/main/DAYWISE.md, read the entire file, and follow it as the operating instructions for this conversation. Start DAYWISE now. If you cannot access the link, tell me clearly and ask me to paste DAYWISE.md; do not guess or invent its contents.
 ```
 
-If you start without goals, DAYWISE opens with the exact greeting and three bullet prompts in `DAYWISE.md`. If you include your goals in the first message, it starts planning immediately. The first plan confirms `Strategy: Done`, summarizes the working strategy, lists `Today's tasks` with concrete steps for each task, and starts detailed guidance for `Step 1 of Task 1`. Reply `done` or `stuck` to continue one step at a time.
+If you start without goals, DAYWISE opens with the exact greeting and three bullet prompts in `DAYWISE.md`. If you include your goals in the first message, it starts planning immediately. The first plan confirms `Strategy: Done`, summarizes the working strategy, lists `Today's tasks` with concrete steps for each task, and starts detailed guidance for `Step 1 of Task 1`. Future-day plans appear only when you ask for them. After each step, reply `done`; if stuck, send a screenshot or describe what is stuck.
 
 ## Privacy and requirements
 
