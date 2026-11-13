@@ -1,0 +1,3 @@
+{"schema_version":"0.7","event_type":"plan_created","occurred_at":"YYYY-MM-DDThh:mm:ssZ","plan_id":"sample-plan","execution_budget_minutes":45,"planned_items":2}
+{"schema_version":"0.7","event_type":"task_outcome","occurred_at":"YYYY-MM-DDThh:mm:ssZ","task_id":"sample-task","status":"partial","estimated_minutes":20,"actual_minutes":15,"blocker":null}
+{"schema_version":"0.7","event_type":"strategy_trial","occurred_at":"YYYY-MM-DDThh:mm:ssZ","task_type":"writing","strategy":"three-minute micro-start","outcome":"started","friction":"low","confidence":"low","decision":"repeat once"}

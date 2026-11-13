@@ -1,0 +1,11 @@
+{
+  "schema_version": "0.7",
+  "task": "Draft the three benefit headings",
+  "status": "partial",
+  "last_completed": "The first heading is written",
+  "next_action": "Write the second heading in the same document",
+  "where": "Authorized local project folder / homepage draft",
+  "needed": null,
+  "estimate_remaining_minutes": 12,
+  "resume_by_or_review": "next planned writing block"
+}

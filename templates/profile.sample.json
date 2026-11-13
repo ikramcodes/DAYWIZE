@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.7",
+  "memory_mode": "local_authorized_folder",
+  "preferences": {
+    "time_zone": "Etc/UTC",
+    "quiet_hours": null,
+    "reminder_preference": {
+      "enabled": false,
+      "time": null,
+      "delivery_confirmed": false
+    }
+  },
+  "capacity": {
+    "assumed_execution_ratio": 0.65,
+    "recent_median_focus_minutes": null,
+    "last_reviewed": null
+  },
+  "goals": [],
+  "strategy_learnings": [],
+  "user_corrections": []
+}
