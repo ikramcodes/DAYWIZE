@@ -1,0 +1,4 @@
+.DS_Store
+daywise-memory/
+*.local.json
+*.local.jsonl
